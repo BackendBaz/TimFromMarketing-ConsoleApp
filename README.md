@@ -12,4 +12,5 @@ In this exercise you'll be writing code to print name badges for factory employe
    - Employee badge labels are formatted as follows: `"[id] - name - DEPARTMENT"`.
    - Note that the department should be uppercased on the label.
 2. Print a badge for a new employee
+   - Modify the `print()` method to support new employees that don't yet have an **ID**.
 3. Print a badge for the owner
