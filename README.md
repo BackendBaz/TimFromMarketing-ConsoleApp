@@ -14,3 +14,5 @@ In this exercise you'll be writing code to print name badges for factory employe
 2. Print a badge for a new employee
    - Modify the `print()` method to support new employees that don't yet have an **ID**.
 3. Print a badge for the owner
+   - An owner does not have a **department**. In this case, the label should print `"OWNER"` instead of the department name. Modify the `print()` method to print a label for the owner.
+   - Note that it is possible for the **owner** to also be a **new employee**.
